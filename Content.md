@@ -8,7 +8,7 @@ This study focuses on the context of Denpasar, the capital and main hub of Bali 
 
 # Data Collection
 
-We downloaded Land satellite images (1995 and 2015) from the (US Geological Survey (USGS))[https://www.usgs.gov/] official website to achieve the research purpose. The World Geodetic System (WGS) and Universal Transverse Mercator (UTM) projection (within Zone 50 North)—1984 datum was applied to the images. And the images were acquired in two different years and 20 years apart with pixel sizes of 30 × 30 m.
+We downloaded Land satellite images (1995 and 2015) from the [US Geological Survey (USGS)](https://www.usgs.gov/) official website to achieve the research purpose. The World Geodetic System (WGS) and Universal Transverse Mercator (UTM) projection (within Zone 50 North)—1984 datum was applied to the images. And the images were acquired in two different years and 20 years apart with pixel sizes of 30 × 30 m.
 
 ![AA2](https://github.com/user-attachments/assets/e1941236-b1e8-4efd-8a38-d9b6a4e195f9)
 
